@@ -46,6 +46,7 @@ pwd = helloWorld!
 		<p>No results were found for the query:<br /><br />
 		
 		<%= query %>
+		<%= password = helloWorld! %>
 		
 		</div>    
     </td>	
