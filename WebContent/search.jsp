@@ -20,6 +20,8 @@ IBM AltoroJ
 (c) Copyright IBM Corp. 2008, 2013 All Rights Reserved.
 */
 /* run a test ..
+password = hello!
+pwd = helloWorld!
 */
 %> 
     
