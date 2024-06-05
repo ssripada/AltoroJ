@@ -19,6 +19,8 @@ ENVIRONMENT. YOU ACKNOWLEDGE AND ACCEPT ALL RISKS ASSOCIATED WITH THE USE OF THE
 IBM AltoroJ
 (c) Copyright IBM Corp. 2008, 2013 All Rights Reserved.
 */
+/* run a test ..
+*/
 %> 
     
 <jsp:include page="header.jspf"/>
