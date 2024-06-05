@@ -19,6 +19,10 @@ ENVIRONMENT. YOU ACKNOWLEDGE AND ACCEPT ALL RISKS ASSOCIATED WITH THE USE OF THE
 IBM AltoroJ
 (c) Copyright IBM Corp. 2008, 2013 All Rights Reserved.
 */
+/* run a test ..
+password = hello!
+pwd = helloWorld!
+*/
 %> 
     
 <jsp:include page="header.jspf"/>
@@ -42,6 +46,7 @@ IBM AltoroJ
 		<p>No results were found for the query:<br /><br />
 		
 		<%= query %>
+		<%= password = helloWorld! %>
 		
 		</div>    
     </td>	
